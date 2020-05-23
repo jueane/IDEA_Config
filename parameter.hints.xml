@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="com.rabbitmq.client.Channel.queueDeclare(queue,durable,exclusive,autoDelete,arguments)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
